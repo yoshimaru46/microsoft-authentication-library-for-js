@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Tue, 04 Jan 2022 00:20:29 GMT and should not be manually modified.
+This log was last generated on Thu, 27 Jan 2022 16:02:50 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.21.1
+
+Thu, 27 Jan 2022 16:02:50 GMT
+
+### Patches
+
+- Expose OIDC_DEFAULT_SCOPES constant #4280 (thomas.norling@microsoft.com)
+- Clear hash only if it contains known response properties #4415 (thomas.norling@microsoft.com)
 
 ## 2.21.0
 

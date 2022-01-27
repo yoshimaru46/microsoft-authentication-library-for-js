@@ -2,6 +2,41 @@
   "name": "@azure/msal-react",
   "entries": [
     {
+      "date": "Thu, 27 Jan 2022 16:02:50 GMT",
+      "tag": "@azure/msal-react_v1.3.0",
+      "version": "1.3.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "67ce881faa2a6931320541d99de2efe4e9ba6a3f",
+            "comment": "useMsalAuthentication hook acquires a token if user is already signed in #4280"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-react",
+            "comment": "Bump @azure/msal-browser to v2.21.1",
+            "commit": "2c550c90c951c031e24f5b2514ea120d8dc8627d"
+          }
+        ],
+        "none": [
+          {
+            "author": "kamausamuel11@gmail.com",
+            "package": "@azure/msal-react",
+            "commit": "5767008f8ef9f3b05aeba421cc4aa6c6bb616e86",
+            "comment": "fix: update package-lock files"
+          },
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-react",
+            "commit": "19f76b1d9cd2b0f1a4a7e4765c8ee9e7e17f3d59",
+            "comment": "Test changes #4383"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 04 Jan 2022 00:20:29 GMT",
       "tag": "@azure/msal-react_v1.2.0",
       "version": "1.2.0",

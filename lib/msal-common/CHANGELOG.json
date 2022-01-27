@@ -2,6 +2,21 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Thu, 27 Jan 2022 16:02:50 GMT",
+      "tag": "@azure/msal-common_v6.0.0",
+      "version": "6.0.0",
+      "comments": {
+        "none": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "19f76b1d9cd2b0f1a4a7e4765c8ee9e7e17f3d59",
+            "comment": "Test changes #4383"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 04 Jan 2022 00:20:29 GMT",
       "tag": "@azure/msal-common_v6.0.0",
       "version": "6.0.0",

@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-react
 
-This log was last generated on Tue, 04 Jan 2022 00:20:29 GMT and should not be manually modified.
+This log was last generated on Thu, 27 Jan 2022 16:02:50 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.3.0
+
+Thu, 27 Jan 2022 16:02:50 GMT
+
+### Minor changes
+
+- useMsalAuthentication hook acquires a token if user is already signed in #4280 (thomas.norling@microsoft.com)
+- Bump @azure/msal-browser to v2.21.1
 
 ## 1.2.0
 

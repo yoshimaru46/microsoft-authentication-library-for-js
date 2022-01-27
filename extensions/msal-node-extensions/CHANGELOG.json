@@ -2,6 +2,33 @@
   "name": "@azure/msal-node-extensions",
   "entries": [
     {
+      "date": "Thu, 27 Jan 2022 16:02:50 GMT",
+      "tag": "@azure/msal-node-extensions_v1.0.0-alpha.14",
+      "version": "1.0.0-alpha.14",
+      "comments": {
+        "none": [
+          {
+            "author": "kamausamuel11@gmail.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "5767008f8ef9f3b05aeba421cc4aa6c6bb616e86",
+            "comment": "fix: update package-lock files"
+          },
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "19f76b1d9cd2b0f1a4a7e4765c8ee9e7e17f3d59",
+            "comment": "Test changes #4383"
+          },
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "@azure/msal-node-extensions",
+            "commit": "539ca525a356c0d4a7bd1d4da5271f8a2988f944",
+            "comment": "Resolve lint errors #4363"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 04 Jan 2022 00:20:29 GMT",
       "tag": "@azure/msal-node-extensions_v1.0.0-alpha.14",
       "version": "1.0.0-alpha.14",

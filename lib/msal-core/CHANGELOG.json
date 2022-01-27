@@ -2,6 +2,21 @@
   "name": "msal",
   "entries": [
     {
+      "date": "Thu, 27 Jan 2022 16:02:50 GMT",
+      "tag": "msal_v1.4.15",
+      "version": "1.4.15",
+      "comments": {
+        "none": [
+          {
+            "author": "thomas.norling@microsoft.com",
+            "package": "msal",
+            "commit": "19f76b1d9cd2b0f1a4a7e4765c8ee9e7e17f3d59",
+            "comment": "Test changes #4383"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 04 Jan 2022 00:20:29 GMT",
       "tag": "msal_v1.4.15",
       "version": "1.4.15",
